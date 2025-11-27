@@ -18,6 +18,7 @@ This project demonstrates image classification on the CIFAR-10 dataset using a C
 
 ## Folder Structure
 cifar10-image-recognition/
+|--ipynb file
 ├── app.py
 ├── model_structure.json
 ├── model_weight.weights.h5
